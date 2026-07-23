@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sanath.</h1>
+<h1 align="center">Howdy! I'm Sanath 🦉</h1>
 
 <p align="center">
 I build practical tools around AI, security, privacy, and the web<br>
@@ -12,7 +12,6 @@ Breaking things to understand them. Building things to make them better
 
 <h2>Selected work</h2>
 
-<h3>2026</h3>
 
 <a href="https://zkauth.dev/">ZKAuth</a> - Zero-knowledge authentication for developers where the password never leaves the device <a href="https://zkauth.dev/">View</a>
 
@@ -32,7 +31,6 @@ Breaking things to understand them. Building things to make them better
 
 <a href="https://github.com/sansynx/OffGriid">OffGriid</a> - An offline, mesh-networked Android messenger built for private communication without the internet <a href="https://offgriid.vercel.app">View</a>
 
-<h3>2025</h3>
 
 <a href="https://github.com/sansynx/Input-Loggers">Input Loggers</a> - Educational Python tools for understanding keyboard and mouse input capture <a href="https://github.com/sansynx/Input-Loggers">View</a>
 
