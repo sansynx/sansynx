@@ -36,8 +36,6 @@ Breaking things to understand them. Building things to make them better
 
 <a href="https://github.com/sansynx/HireSight-n8n">HireSight</a> - n8n automation workflows that turn hiring emails into structured placement data and calendar events
 
-<a href="https://github.com/sansynx/Quote_Gen">Quote Gen</a> - A small web app for discovering thoughtful, uplifting quotes
-
 <p align="center">
   <i>"Consistency can be invisible until it disappears"</i>
 </p>
