@@ -8,11 +8,13 @@
 </p>
 
 <p align="center">
-  I build practical tools around AI, security, privacy, and the web.
+  Hi, I’m Sanath. I like building practical tools and learning in public across AI, security, privacy, and the web.
 </p>
 
-## Selected work
-
-- [OffGriid](https://github.com/sansynx/OffGriid) - Offline, mesh-networked messaging for private communication on Android.
-- [Portpeek CLI](https://github.com/sansynx/portpeek-cli) - See what is listening on your local ports and stop it without remembering kill commands.
-- [Dormancy](https://github.com/sansynx/Dormancy) - Read-only directory reporting for authentik users and groups.
+<pre align="center">
+SANSYNX
+  ├── AI
+  ├── Security
+  ├── Privacy
+  └── Web
+</pre>
