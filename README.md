@@ -1,4 +1,10 @@
-<h1 align="center">Sanath</h1>
+<pre align="center">
+ #####    ###   #   #  #####  ######  #   #
+#       #   #  ##  #  #   #    #     #   #
+ ####   #####  # # #  #####    #     #####
+    #   #   #  #  ##  #   #    #     #   #
+#####   #   #  #   #  #   #    #     #   #
+</pre>
 
 <p align="center">
   <a href="https://sanathr.me">Website</a> ·
@@ -10,11 +16,3 @@
 <p align="center">
   Hi, I’m Sanath. I like building practical tools and learning in public across AI, security, privacy, and the web.
 </p>
-
-<pre align="center">
-SANSYNX
-  ├── AI
-  ├── Security
-  ├── Privacy
-  └── Web
-</pre>
